@@ -8,7 +8,7 @@ I'm a passionate **public policy advisor** in the UK with a desire to make polic
 
 ## 📂 Featured Projects
 
-Coming soon!
+Anthracyte - a social capital accelerator
 
 ---
 
@@ -23,6 +23,7 @@ Coming soon!
 - **BSc in Data Science** (Ongoing)
 - Certifications:
   - Google IT Support Professional Certificate (2025)
+  - Google Cybersecurity Professional Certificate (2025)
 
 ## 🧠 Always Learning
 
